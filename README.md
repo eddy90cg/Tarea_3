@@ -25,7 +25,7 @@ En esta tarea observaremos el estudio de la s mallas en conexiones paralelo y se
 
 # 2. MARCO TEÓRICO
 
-#### Análisis básico de cd
+## Análisis básico de cd.-
 
 
 CAPITULO 5.
@@ -47,7 +47,7 @@ CAPITULO 6.
 
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-#### Análisis básico de cd
+## Análisis básico de cd.-
 
 # CAP 5.
 

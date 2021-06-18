@@ -56,6 +56,13 @@ CAPITULO 6.
 1. 
 
 
+
+
+
+
+
+
+
 40.
 
 
@@ -64,6 +71,15 @@ CAPITULO 6.
 ### Circuitos en paralelo:
 
 1. 
+
+
+
+
+
+
+
+
+
 
 
 54.

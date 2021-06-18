@@ -1,6 +1,6 @@
 # InformeTarea
 
-# CAP. 4 - CAP. 5
+# CAP. 5 - CAP. 6
 
 #### INTEGRANTES: EDISON CADENA - STEVEN FLORES - MATEO VINUEZA - WILLIAM MOSQUERA
 
@@ -35,7 +35,7 @@ CAPITULO 5.
 
 ![MENTEFACTO ]()
 
-CAPITULO 5.
+CAPITULO 6.
 
 ### Circuitos en paralelo:
 

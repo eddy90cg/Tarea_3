@@ -30,14 +30,14 @@ En esta tarea observaremos el estudio de la s mallas en conexiones paralelo y se
 
 CAPITULO 5.
 
-#### Circuitos en serie
+### Circuitos en serie:
 
 
 ![MENTEFACTO ]()
 
 CAPITULO 5.
 
-#### Circuitos en paralelo
+### Circuitos en paralelo:
 
 
 
@@ -51,17 +51,23 @@ CAPITULO 5.
 
 # CAP 5.
 
-#### Circuitos en serie
+### Circuitos en serie:
 
 1. 
 
+
+40.
 
 
 # CAP 6.
 
-#### Circuitos en paralelo
+### Circuitos en paralelo:
 
 1. 
+
+
+54.
+
 
 # 4. VIDEO
 

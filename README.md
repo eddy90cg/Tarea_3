@@ -125,11 +125,71 @@ b. Determine el valor de la resistencia R3.
 
 ![7](https://user-images.githubusercontent.com/84453557/122870452-4ddac180-d2f3-11eb-8171-6796de1bb8e7.png)
 
+33. Utilice la regla del divisor de corriente para determinar las resistencias desconocidas en la red de la figura 6-75.
 
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2033%20cap%206.png)
 
+35. Vea el circuito de la figura 6-77.
 
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2035%20grf.png)
 
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2035%20a.png)
 
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2035%20b.png)
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2035%20c.png)
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2035%20d.png)
+
+37. Vea el circuito de la figura 6-79.
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2037%20grf.png)
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2037%20a.png)
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2037%20b.png)
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2037%20c.png)
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2037%20d.png)
+
+39. Vea el circuito de la figura 6-81:
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2039%20grf.png)
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2039%20a1.png)
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2039%20a2.png)
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2039%20b.png)
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2039%20c.png)
+
+41. En el circuito de la figura 6-83:
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2041%20grf.png)
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2041%20a.png)
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2041%20b1.png)
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2041%20b2.png)
+
+43. Para el circuito de la figura 6-85 determine cada una de las corrientes indicadas. Si el circuito tiene un fusible de 15 A, como se muestra, ¿la corriente es suficiente para hacer que el fusible se abra?
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2041%20grf.png)
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2043%20.png)
+
+45. Un voltímetro con una resistencia interna de 1 MΩ se usa para medir el voltaje que se indica en el circuito de la figura 6-86
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2041%20grf.png)
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2043%20ab.png)
+
+47. Un voltímetro analógico barato se usa para medir el voltaje en las terminales a y b en el circuito de la figura 6-87. Si el voltímetro indica que el Voltaje   V_ab=1.2 V ¿cuál es el voltaje real de la fuente si la resistencia del medidor es de 50 kΩ?
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2047%20con%20grf.png)
 
 
 54.

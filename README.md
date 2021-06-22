@@ -53,8 +53,6 @@ CAPITULO 6.
 
 ### Circuitos en serie:
 
-1. 
-
 
 25. Vea los circuitos de la figura:
 a. Encuentre los valores de los resistores desconocidos.

@@ -55,28 +55,28 @@ CAPITULO 6.
 
 1. Los voltímetros de la figura 5-44 tienen autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos.
 
+Resolución.-
 
-
-![]()
-
-
-
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%201.jpg)
 
 
 3. Todos los resistores de la figura 5-46 son 15 Ω. Determine para cada caso la magnitud y la polaridad de voltaje V.
 
+Resolución.-
 
-![]()
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%203%20-%201.jpg)			![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%203%20-%202.jpg)
 
 
 5. Determine los voltajes desconocidos en las redes de la figura 5-48
 
-![]()
+Resolución.-
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%205.jpg)
 
 
 7. Resuelve para hallar los voltajes desconocidos en el circuito de la figura 5-50
 
-![]()
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejr%207.jpg)
 
 
 9. Determine la resistencia total de las redes que se muestran en la figura 5-52

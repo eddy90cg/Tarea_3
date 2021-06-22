@@ -37,13 +37,7 @@ CAPITULO 5.
 
 CAPITULO 6.
 
-### Circuitos en paralelo:
-
-
-
-![]()
-
-
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/Mentefacto_6.jpeg)
 
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -297,7 +291,7 @@ b. Determine el valor de la resistencia R3.
 
 # 4. VIDEO
 
-link del video:
+https://www.youtube.com/watch?v=ifSfFbuqbBM
 
 # 5. CONCLUSIONES
 

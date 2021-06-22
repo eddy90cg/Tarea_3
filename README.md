@@ -185,7 +185,7 @@ b. Determine el valor de la resistencia R3.
 
 ![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2041%20grf.png)
 
-![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2043%20ab.png)
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2045%20ab.png)
 
 47. Un voltímetro analógico barato se usa para medir el voltaje en las terminales a y b en el circuito de la figura 6-87. Si el voltímetro indica que el Voltaje   V_ab=1.2 V ¿cuál es el voltaje real de la fuente si la resistencia del medidor es de 50 kΩ?
 

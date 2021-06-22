@@ -30,10 +30,10 @@ En esta tarea observaremos el estudio de la s mallas en conexiones paralelo y se
 
 CAPITULO 5.
 
-### Circuitos en serie:
+![mentefacto5 1](https://user-images.githubusercontent.com/84453557/122873815-da877e80-d2f7-11eb-83a9-adbd9bd435d2.png)
 
+![mentefacto 5 2](https://user-images.githubusercontent.com/84453557/122873828-deb39c00-d2f7-11eb-8ae5-e7d1f5693457.png)
 
-![MENTEFACTO ]()
 
 CAPITULO 6.
 

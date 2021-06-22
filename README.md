@@ -53,6 +53,97 @@ CAPITULO 6.
 
 ### Circuitos en serie:
 
+1. Los voltímetros de la figura 5-44 tienen autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos.
+
+
+
+![]()
+
+
+
+
+
+3. Todos los resistores de la figura 5-46 son 15 Ω. Determine para cada caso la magnitud y la polaridad de voltaje V.
+
+
+![]()
+
+
+5. Determine los voltajes desconocidos en las redes de la figura 5-48
+
+![]()
+
+
+7. Resuelve para hallar los voltajes desconocidos en el circuito de la figura 5-50
+
+![]()
+
+
+9. Determine la resistencia total de las redes que se muestran en la figura 5-52
+
+![]()
+
+
+11. Para cada uno de los circuitos de la figura 5-54, determine la resistencia total, RT, y la corriente I.
+
+![]()
+
+
+13. Para el circuito de la figura 5-56 encuentre las siguientes cantidades: 
+	a. La corriente del circuito.
+	b. La resistencia total.
+	c. El valor de la resitencia desconocida R.
+	d. La caída de voltaje en todos los resistores en el circuito.
+	e. La potencia disipada por todos los resistores.
+
+
+![]()
+
+
+15. Para el circuito de la figura 5-58, encuentre las siguientes cantidades: 
+	a. La corriente I.
+	b. La caída de voltaje en cada resistor en el circuito.
+	c. El voltaje en las terminales abiertas a y b.
+
+
+![]()
+
+
+
+17. Repita el problema 16 para el circuito de la figura 5-60.
+
+
+![]()
+
+
+19. Repita el problema 18 para el circuito de la figura 5-62w.
+
+
+
+![]()
+
+
+
+
+21. Vuelve a dibujar los circuitos d ela figura 5-64 para mostrar una sola fuente de voltaje para cada circuito. Encuentre la corriente para cada circuito.
+
+
+
+![]()
+
+
+
+
+23. Utilice la regla del divisor de voltaje para determinar el voltaje en cada resistor en los circuitos de la figura 5-66. Use sus resultados para verificar la ley de voltaje de Kirchhoff para cada circuito.
+
+
+
+![]()
+
+
+
+
+
 
 25. Vea los circuitos de la figura:
 a. Encuentre los valores de los resistores desconocidos.

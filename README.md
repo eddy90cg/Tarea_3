@@ -76,17 +76,23 @@ Resolución.-
 
 7. Resuelve para hallar los voltajes desconocidos en el circuito de la figura 5-50
 
+Resolución.-
+
 ![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejr%207.jpg)
 
 
 9. Determine la resistencia total de las redes que se muestran en la figura 5-52
 
-![]()
+Resolución.-
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%209%20-%201.jpg)		![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%209%20-%202.jpg)
 
 
 11. Para cada uno de los circuitos de la figura 5-54, determine la resistencia total, RT, y la corriente I.
 
-![]()
+Resolución.-
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2011%20-%201.jpg)		![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2011%20-%202.jpg)
 
 
 13. Para el circuito de la figura 5-56 encuentre las siguientes cantidades: 
@@ -96,8 +102,13 @@ Resolución.-
 	d. La caída de voltaje en todos los resistores en el circuito.
 	e. La potencia disipada por todos los resistores.
 
+Resolución.-
 
-![]()
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2013%20-%201.jpg)		![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2013%20-%202.jpg)	
+
+
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2013%20-%203.jpg)	
 
 
 15. Para el circuito de la figura 5-58, encuentre las siguientes cantidades: 
@@ -105,44 +116,42 @@ Resolución.-
 	b. La caída de voltaje en cada resistor en el circuito.
 	c. El voltaje en las terminales abiertas a y b.
 
+Resolución.-
 
-![]()
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2015%20-%201.jpg)		![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2015%20-%202.jpg)
 
 
 
 17. Repita el problema 16 para el circuito de la figura 5-60.
 
+Resolución.-
 
-![]()
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2017.jpg)
 
 
 19. Repita el problema 18 para el circuito de la figura 5-62w.
 
+Resolución.-
 
-
-![]()
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2019%20-%201.jpg)		![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejer%2019%20-%202.jpg)
 
 
 
 
 21. Vuelve a dibujar los circuitos d ela figura 5-64 para mostrar una sola fuente de voltaje para cada circuito. Encuentre la corriente para cada circuito.
 
+Resolución.-
 
-
-![]()
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejr%2021.jpg)
 
 
 
 
 23. Utilice la regla del divisor de voltaje para determinar el voltaje en cada resistor en los circuitos de la figura 5-66. Use sus resultados para verificar la ley de voltaje de Kirchhoff para cada circuito.
 
+Resolución.-
 
-
-![]()
-
-
-
-
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/ejr%2023.jpg)
 
 
 25. Vea los circuitos de la figura:

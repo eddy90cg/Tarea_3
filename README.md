@@ -220,7 +220,9 @@ b. Determine el valor de la resistencia R3.
 ![7](https://user-images.githubusercontent.com/84453557/122870452-4ddac180-d2f3-11eb-8171-6796de1bb8e7.png)
 
 9. Vea la red de la figura 6-52:
-Fig.6-52
+
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/Fig.6-52.png)
+
    Utilice la ley de corrientes de Kirchhoff para calcular las corrientes desconocidas <img src="https://latex.codecogs.com/svg.latex?I_1,I_2,I_3\&space;e\&space;I_4" title="I_1,I_2,I_3\ e\ I_4" />
        
 Primero encontramos <img src="https://latex.codecogs.com/svg.latex?I_1" title="I_1" />
@@ -241,19 +243,19 @@ Y finalmente encontramos <img src="https://latex.codecogs.com/svg.latex?I_2" tit
 
 11. Calcule la conductancia total y resistencia total de cada red que se muestra en la figura 6-54
 
-![]()
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/Fig.6-54_a.png)
 
 <img src="https://latex.codecogs.com/svg.latex?G_T=\frac{1}{4}&plus;\frac{1}{6}=\frac{5}{12}S" title="G_T=\frac{1}{4}+\frac{1}{6}=\frac{5}{12}S" />
 
 <img src="https://latex.codecogs.com/svg.latex?R_T=\frac{1}{\frac{5}{12}}=2.4&space;\Omega" title="R_T=\frac{1}{\frac{5}{12}}=2.4 \Omega" />
 
-![]()
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/Fig.6-54_b.png)
 
 <img src="https://latex.codecogs.com/svg.latex?G_T=\frac{1}{480}&plus;\frac{1}{240}&plus;\frac{1}{40}=\frac{1}{32}S" title="G_T=\frac{1}{480}+\frac{1}{240}+\frac{1}{40}=\frac{1}{32}S" />
 
 <img src="https://latex.codecogs.com/gif.latex?R_T=\frac{1}{\frac{1}{32}}=32k\Omega" title="R_T=\frac{1}{\frac{1}{32}}=32k\Omega" />
 
-![]()
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/Fig.6-54_c.png)
 
 <img src="https://latex.codecogs.com/svg.latex?G_T=\frac{1}{8.2}&plus;\frac{1}{10}&plus;\frac{1}{39}=0.25S" title="G_T=\frac{1}{8.2}+\frac{1}{10}+\frac{1}{39}=0.25S" />
 
@@ -261,17 +263,17 @@ Y finalmente encontramos <img src="https://latex.codecogs.com/svg.latex?I_2" tit
 
 13. Para las redes de la figura 6-56 determine el valor de las resistencias desconocidas para que resulte la resistencia total que se indica
 
-![]()
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/Fig.6-56_a.png)
 
 La resistencia desconocida tendrá un valor de <img src="https://latex.codecogs.com/gif.latex?2M\Omega" title="2M\Omega" />
 
-![]()
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/Fig.6-56_b.png)
 
 La resistencia desconocida tendrá un valor de <img src="https://latex.codecogs.com/gif.latex?450\Omega" title="450\Omega" />
 
 15. Vea la red de la figura 6-60
 
-![]()
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/Fig.6-60.png)
 
 -a. Encuentre los voltajes a través de <img src="https://latex.codecogs.com/gif.latex?R_1\&space;y\&space;R_2" title="R_1\ y\ R_2" />
        
@@ -283,35 +285,35 @@ La resistencia desconocida tendrá un valor de <img src="https://latex.codecogs.
 
 17. Determine la resistencia total de cada red de la figura 6-62
 
-![]()
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/Fig.6-62_a.png)
 
 <img src="https://latex.codecogs.com/svg.latex?R_T=2.40\Omega" title="R_T=2.40\Omega" />
 
-![]()
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/Fig.6-62_b.png)
 
 <img src="https://latex.codecogs.com/svg.latex?R_T=9.3k\Omega" title="R_T=9.3k\Omega" />
 
-![]()
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/Fig.6-62_c.png)
 
 <img src="https://latex.codecogs.com/svg.latex?R_T=1.2k\Omega" title="R_T=1.2k\Omega" />
 
 19. Sin usar lápiz, papel o calculadora determine la resistencia de cada red en la figura 6-66
 
-![]()
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/Fig.6-66_a.png)
 
 <img src="https://latex.codecogs.com/svg.latex?R_T=12.5k\Omega" title="R_T=12.5k\Omega" />
 
-![]()
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/Fig.6-66_b.png)
 
 <img src="https://latex.codecogs.com/svg.latex?R_T=0\Omega" title="R_T=0\Omega" />
 
-![]()
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/Fig.6-66_c.png)
 
 <img src="https://latex.codecogs.com/svg.latex?R_T=75\Omega" title="R_T=75\Omega" />
 
 25. Sin usar Sin usar lápiz, papel o calculadora determine la resistencia aproximada de la red en la figura 6-68
 
-![]()
+![](https://github.com/eddy90cg/Tarea_3/blob/main/Anexos/Fig.6-68.png)
 
 <img src="https://latex.codecogs.com/svg.latex?R_T\cong&space;15\Omega" title="R_T\cong 15\Omega" />
 
